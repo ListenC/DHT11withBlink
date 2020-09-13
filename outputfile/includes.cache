@@ -1,0 +1,337 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\variants\\wifiduino"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "Blinker.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "ESP8266mDNS.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "ESP8266HTTPClient.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266HTTPClient\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "Ticker.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\Ticker\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\EEPROM"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "ESP8266httpUpdate.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266httpUpdate\\src"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "f:\\Projects\\arduino\\DHT11withBlink\\outputfile\\sketch\\DHT.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\Blinker\\BlinkerDebug.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\Blinker\\BlinkerTimer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\Blinker\\BlinkerUtility.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\Functions\\BlinkerUpdater.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\AsyncTCP\\AsyncTCP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\ESPAsyncTCP\\AsyncPrinter.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\ESPAsyncTCP\\ESPAsyncTCP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\ESPAsyncTCP\\ESPAsyncTCPbuffer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\ESPAsyncTCP\\SyncClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\ESPAsyncTCP\\tcp_axtls.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\SocketIOclient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\WebSockets.cpp",
+    "Include": "Hash.h",
+    "Includepath": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\Hash\\src"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\WebSockets.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\WebSocketsClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\WebSocketsServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\libb64\\cdecode.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\libb64\\cencode.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\WebSockets\\libsha1\\libsha1.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\mqtt\\Adafruit_MQTT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\mqtt\\Adafruit_MQTT_Client.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\painlessMesh\\painlessMeshConnection.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\painlessMesh\\painlessMeshSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\painlessMesh\\scheduler.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\blinker-library\\src\\modules\\painlessMesh\\wifi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\ESP8266mDNS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\ESP8266mDNS_Legacy.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\LEAmDNS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Control.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Helpers.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Structs.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Transfer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA-WPS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiClientSecureAxTLS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiServerSecureAxTLS.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266HTTPClient\\src\\ESP8266HTTPClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\Ticker\\src\\Ticker.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\EEPROM\\EEPROM.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\ESP8266httpUpdate\\src\\ESP8266httpUpdate.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "D:\\Documents\\Arduino\\libraries\\Adafruit_Sensor"
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT_U.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\fanre\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.1\\libraries\\Hash\\src\\Hash.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Documents\\Arduino\\libraries\\Adafruit_Sensor\\Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
